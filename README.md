@@ -1,2 +1,2 @@
 # Azkar-website-host
-Host website
+CS50 final project
