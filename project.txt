@@ -10,7 +10,7 @@ HTML Code:
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="outhor" content="Omar Mohamed" />
     <meta name="description" content="اذكار الصباح والمساء" />
-    <link rel="icon" type="image/x-icon" href="/PROJECT/media/icon.png"/>
+    <link rel="icon" type="image/x-icon" href="images/icon.png"/>
     <link rel="stylesheet" href="project.css"/>
     <link href="https://fonts.googleapis.com/css2?family=Amiri&display=swap" rel="stylesheet">
 
@@ -685,9 +685,9 @@ HTML Code:
     <br><br><br>
     <footer>
         <nav class="fnav" dir="auto">
-            <a href="#h" class="home">Home <img src="media/home1.png" width="20"></a>
-            <a href="https://mail.google.com/mail/?view=cm&fs=1&to=omarmohamed.official109@gmail.com" target="_blank">Contact <img src="media/mail.png" width="22"></a>
-            <a href="https://www.linkedin.com/in/omar-mohamed-8bab01354/" target="_blank">About <img src="media/about1.png" width="16"></a>
+            <a href="#h" class="home">Home <img src="images/home1.png" width="20"></a>
+            <a href="https://mail.google.com/mail/?view=cm&fs=1&to=omarmohamed.official109@gmail.com" target="_blank">Contact <img src="images/mail.png" width="22"></a>
+            <a href="https://www.linkedin.com/in/omar-mohamed-8bab01354/" target="_blank">About <img src="images/about1.png" width="16"></a>
         </nav>
         <br>
         <p class="copy" dir="ltr">&copy; 2025 Azkar. All rights reserved.</p>

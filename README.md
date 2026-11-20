@@ -27,9 +27,14 @@ https://omar-mohamed-11.github.io/Azkar-website/
 Azkar-website/
 │
 ├── index.html
-├── css/
-├── js/
+├── about.html
+├── project.css
+├── project.js
 ├── images/
+│   ├── about1.png
+│   ├── home1.png
+│   ├── icon.png
+│   └── mail.png
 └── README.md
 ```
 
